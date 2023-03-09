@@ -1,0 +1,22 @@
+.cell {
+    border: 2px solid blue;
+    margin: .5rem;
+    display: inline;
+    padding: 5px;
+}
+
+table, thead, tr, td, th {
+    border: 5px solid lightskyblue;
+    border-collapse: collapse;
+    margin: 40px;
+    padding: 10px;
+
+}
+
+thead {
+    background-color: darkgray;
+}
+
+td {
+    background-color: lightgray;
+}
